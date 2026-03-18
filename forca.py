@@ -8,6 +8,7 @@ def jogar():
 
     enforcou = False
     acertou = False
+    erros = 0
 
     print(letras_acertadas)
 
